@@ -1,0 +1,236 @@
+body{background-image: url(../img/catalinablue.jpg);
+    background-size: cover;
+
+} 
+
+.whitetext{
+    color: white;
+}
+
+
+nav > a { padding-left: 30px; padding-right: 30px;
+
+}
+
+.a {
+    text-decoration: none;
+    font-family: fantasy;
+    color: black;
+  border-style: solid;
+    border-color:white;
+
+      
+}
+.Palmettologo {align-items: center;}
+
+.Jean {list-style: none;
+text-decoration: none;
+padding-right: 55px;
+color: white;
+list-style-type: none;
+    
+
+}
+
+.Cole {
+    text-decoration: none;
+    list-style: none;
+}
+
+.Shiv {margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+    
+}
+
+.left {
+  align-content: center;
+    
+}
+
+.center { 
+    align-content: center;
+}
+
+.intro {
+    font-size: 1/4 em;
+}
+
+.title {
+    font-size: 3/2 em; 
+}
+
+.menubar
+{
+    align-content: center;
+    text-align: center;
+    padding-left: 70px;
+}
+
+#slideshow { 
+    margin: auto; 
+    position: relative; 
+    width: 240px; 
+    height: 240px; 
+    padding-right: 100px;
+}
+
+#slideshow > div { 
+    position: absolute; 
+}
+
+
+
+.text {text-align: center;}
+
+.bar {
+    padding-left: 260px;
+    padding-right: 200px;
+}
+.sectiontitle
+{
+    padding-left: 480px;
+    padding-right: 380px;
+    font-size: 10;
+}
+.profilepic {
+    padding-left: 445px;
+    padding-right: 400px;
+    padding-top: 100pxpx;
+    padding bottom: 100px;
+}
+        
+.khamin {
+    padding: 16px;
+}
+.header {
+    padding-left: 430px;
+    padding-right: 433px;
+}
+.UnitedNations {
+    padding-left: 415px;
+    padding-right: 260px;
+}
+.MUNclub {
+    padding-left: 445px;
+    padding-right: 445px;
+}
+    
+.p1 { padding-left: 200px;
+    padding-right: 200px;
+}
+.p2 {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.p3 {
+    padding-right: 10px;
+}
+
+a {color: yellow;}
+a:hover {
+color: yellow;}
+
+@media (max-width: 1200px) {
+   body {background: black}
+    .bar {padding-left: 150px;
+    padding-right: 150px;}
+    .profilepic {padding-left: 350px;
+        padding-right: 490px;}
+    .sectiontitle {padding-left: 380px;
+    padding-right: 300px;
+    
+} 
+    .UnitedNations {padding-left: 300px;
+    padding-right: 200px;
+    
+  }
+    
+@media (max-width: 990px) {
+   body {background: green;}
+    .bar {padding-left: 50px;
+    padding-right: 80px;}
+    .profilepic {padding-left: 240px;
+        padding-right: 210px;}
+    .sectiontitle {padding-left: 275px;
+        padding-right: 130px;
+    font-size: 10;
+} 
+    .UnitedNations {padding-left: 200px;
+    padding-right: 150px;
+    
+  }
+    
+  }
+@media (max-width: 750px) {
+    body {background: yellow;}
+    .btn, btn-group, .dropdown-menu{
+        width: 100%;
+        text-align: center;
+        align-content: center;}
+          .bar {padding-left: 20px;
+    padding-right: 90px;}
+    .profilepic {padding-left: 195px;
+        padding-right: 210px;}
+    .sectiontitle {padding-left: 230px;
+        padding-right: 130px;}  
+    .UnitedNations {padding-left: 180px;
+        padding-right: 90px;}
+    .p1 { padding-left: 100px;
+    padding-right: 100px;
+}
+.p2 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.p3 {
+    padding-right: 7px;
+}
+    
+  }
+}
+@media (max-width:630px) {
+    body {background: pink;}
+            .bar {padding-left: 20px;
+    padding-right: 95px;}
+    .profilepic {padding-left: 135px;}
+    .sectiontitle {padding-left: 175px;
+    }
+    .UnitedNations {padding-left: 120px;
+        padding-right: 40px;}
+        .p1 { padding-left: 90px;
+    padding-right: 90px;
+}
+.p2 {
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.p3 {
+    padding-right: 5px;
+    
+  }
+}
+
+@media (max-width:546px) {
+   body {background: lightblue;}
+    .profilepic {padding-left: 90px;}
+    .sectiontitle {padding-left: 135px;
+        padding-right: 130px;
+    }
+    .UnitedNations {padding-left: 90px;
+    padding-right: 20px;
+    
+  }
+    }
+    @media (max-width:500px) {
+   body {background: purple;}
+    .profilepic {padding-left: 90px;}
+    .sectiontitle {
+    }
+    .UnitedNations {padding-left: 40px;
+    padding-right: 10px;
+    
+  }
+    }
+ 
+        
